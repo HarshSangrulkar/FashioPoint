@@ -1,1 +1,1 @@
-# FashioPoint
+# FashionPoint
